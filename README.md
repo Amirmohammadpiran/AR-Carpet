@@ -5,7 +5,7 @@ In this repo, I implemented a demo that uses state-of-the-art models to visualiz
 
 Then you can turn this: 
 
-![input](1.jpg)
+![input](8.jpg)
 
 into this:
 
