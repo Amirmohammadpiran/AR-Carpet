@@ -7,7 +7,7 @@ Then you can turn this:
 
 ![input](1.jpg)
 
-into:
+into this:
 
 ![output](result.png)
 
